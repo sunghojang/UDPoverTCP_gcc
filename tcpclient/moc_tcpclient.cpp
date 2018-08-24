@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'tcpclient.h'
 **
-** Created: Fri Aug 24 12:21:07 2018
+** Created: Fri Aug 24 15:29:58 2018
 **      by: The Qt Meta Object Compiler version 63 (Qt 4.8.2)
 **
 ** WARNING! All changes made in this file will be lost!

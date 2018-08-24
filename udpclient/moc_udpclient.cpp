@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'udpclient.h'
 **
-** Created: Fri Aug 24 12:21:37 2018
+** Created: Fri Aug 24 15:29:59 2018
 **      by: The Qt Meta Object Compiler version 63 (Qt 4.8.2)
 **
 ** WARNING! All changes made in this file will be lost!

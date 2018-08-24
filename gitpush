@@ -1,0 +1,15 @@
+#!/bin/bash
+if [ $1-z ]; then
+	echo "Please input  1 argument string \nexmaple: sh gitpush \"add all\""
+else
+	git init
+	git config --global user.name "sunghojang"
+	git config --global user.email "sdjtei@gmail.com"
+	git config --global credential.helper cache
+	git remote add origin https://github.com/sunghojang/UDPoverTCP_gcc
+	git add * 
+	git commit -m "$1"
+	git fetch
+	git status
+	git push -u origin master
+fi
